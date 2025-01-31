@@ -1,0 +1,11 @@
+{
+  "name": "book-collection",
+  "description": "Book Collection App on Heroku",
+  "repository": "https://github.com/camcao-tamu/book-collection-e",
+  "env": {
+    "NODE_ENV": {
+      "description": "Set to production",
+      "value": "production"
+    }
+  }
+}
